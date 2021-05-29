@@ -1,0 +1,43 @@
+body
+{
+    text-align: center;
+}
+.Demo-container
+{
+    background: linear-gradient(-45deg, rgb(255, 208, 0),orange);
+    text-align: center;
+    margin-left: 10px ;
+    margin-right: 10px ;
+    border-radius: 5px auto;
+    padding-bottom: 70px auto;
+    padding-right: 500px auto;
+    box-shadow:0px 0px 15px 3px;
+    
+    
+    
+}
+.inc{
+    background-color: white;
+    padding: 13px 18px 13px 18px;
+     border-radius: 25px; 
+     margin-left: 410px ; 
+     
+    
+}
+.dec{
+    background-color: rgb(255, 255, 255);
+    padding: 13px 18px 13px 18px;
+     border-radius: 25px; 
+    margin-right: 830px ;
+    
+}
+.count
+{
+    text-align: center;
+}
+.reset
+{
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+}
